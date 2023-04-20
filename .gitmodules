@@ -1,0 +1,6 @@
+[submodule "zoldng"]
+	path = zoldng
+	url = https://github.com/csengekulker/zoldng.git
+[submodule "ng-api"]
+	path = ng-api
+	url = https://github.com/csengekulker/ng-api.git
